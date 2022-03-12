@@ -9,3 +9,6 @@ and a TFT I2C 3.5" Display (they are around £30 on ebay). I have also included 
 
 
 PS put the BOM.CSV into LSCS Bom Tool to make component ordering quick and easy Total component cost is £24.15 plus when you order your Toasty SMD PCB please select ENIG-RoHs 
+
+
+I should mention this my first time doing a PCB design so please check everything before ordering and please help me make this project even better :) 

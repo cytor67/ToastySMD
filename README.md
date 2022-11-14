@@ -9,7 +9,7 @@ An all in one STM32 based reflow controller powered by STM32F103C8T6 Blue Pill. 
 
 
 
-PS put the BOM.CSV into LSCS Bom Tool to make component ordering quick and easy Total component cost is £24.15 
+PS put the BOM.CSV into LSCS Bom Tool to make component ordering quick and easy Total component cost is £52.87 
 
 
 I should mention this my first time doing a PCB design so please check everything before ordering and please help me make this project even better :) 
